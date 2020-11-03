@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  saml-service-provider:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-11-03T11:56:17.0139586+01:00"
+    description: SAM Service Provider pour le GAR
+    digest: 8c29466ae7a114f28dc2134cb86bf56dd343be0a85ab52f2067d7d34fcc11186
+    name: saml-service-provider
+    urls:
+    - https://passtech.github.io/helm-chart/saml-service-provider-0.1.1.tgz
+    version: 0.1.1
+generated: "2020-11-03T11:56:17.0112255+01:00"
